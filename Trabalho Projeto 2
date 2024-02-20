@@ -1,0 +1,42 @@
+Trabalho de Projeto Integrador: Programação
+Aluna: Maria Rafaela Toledo
+7º período 
+
+1.	Encontre referências e comente: 
+a)	 A relação entre a LGPD e os Data Centers no Brasil
+Resposta: A LGPD exigiu que as empresas tivessem que se adaptar as novas regras de proteção de dados, como ocorreu com os Datas Centers, a fim de proteger as informações. 
+Portanto, é necessário incorporar a privacidade e a proteção dos dados pessoais na arquitetura dos Datas Centers. As premissas da LGPD para os Data Centers:
+“Mapeamento de quais dados são tratados, por quais áreas e com qual finalidade; Atualização de softwares e sistemas de controle de hardware; Monitoramento frequente de recursos; 
+Política de controle de acesso físico e online; Divulgação e treinamento dos colaboradores com relação às boas práticas de TI;”
+A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD.
+É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, 
+garantir a proteção física dos ambientes para que a gestão das informações seja segura.
+Data center é o lugar físico onde os computadores da empresa estão.
+Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. 
+Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores).
+
+b)	 Formatos de arquivos de dados proprietários e abertos.
+Resposta: Os formatos proprietários são, na verdade, controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações 
+contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos 
+- órgãos, instituições, administração, etc - se tornariam ilegíveis e inutilizáveis em muito pouco tempo. Já o formato aberto, em informática, indica uma especificação técnica de domínio
+público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo
+prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a 
+concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+
+b.1) forneça exemplos de formatos 
+Resposta: Formatos proprietários: DWG - AutoCad Drawing SWF - Shockwave Flash DOC - formato proprietário de texto PPT - formato proprietário de apresentação de slides; 
+Formatos abertos: PDF. 
+
+b.2) discuta as implicações relacionadas a dados públicos
+Resposta: Conforme a doutrina quanto à LGPD, os dados devem ser contemplados e tratados tendo em vista a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização.
+A LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente públicos pelo titular. 
+Porém, se uma organização quiser compartilhar esses dados com outras, aí ela deverá obter outro consentimento para esse fim - resguardadas as hipóteses de dispensa previstas na lei. 
+A LGPD também se relaciona com a Lei de Acesso à Informação (LAI) e com princípios constitucionais, como o de que “todos têm direito a receber dos órgãos públicos informações de seu 
+interesse particular, ou de interesse coletivo ou geral, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”. Não existe tratamento de dados pessoais
+“fora” dos princípios e deveres estabelecidos na LGPD, então, para o posterior tratamento desses dados pessoais (reutilização), é necessário cumprir com todos os requisitos previstos na 
+LGPD: cibersegurança, finalidade, transparência, aplicar a um fim específico e indicar a nova base legal (exceto se esta for o consentimento).
+
+
+REFERÊNCIA BIBLIOGRÁFICA:
+https://odatacolocation.com/blog/lgpd-para-datacenters/ 
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/ 
