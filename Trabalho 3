@@ -1,0 +1,63 @@
+1 – Explique as diferenças entre 3 linguagens de programação:
+
+Resposta:  As linguagens de programação nada mais são do que um idioma com regras de escrita,
+para garantir a comunicação com o computador. 
+Linguagem Python, JavaScript e Java: 
+
+Python -> é uma linguagem de alto nível, interpretada e de propósito geral, sendo conhecida por
+sua sintaxe limpa e legibilidade, tornando-a extremamente popular entre iniciantes e também em 
+áreas como ciência de dados e desenvolvimento web. Dessa maneira, trata-se de uma linguagem de 
+programação multiparadigma, o que significa que suporta programação procedural, orientada a 
+objetos e funcional. Portanto, •	Python é frequentemente utilizada em desenvolvimento web (por 
+meio de frameworks como Django e Flask), automação de tarefas, análise de dados, inteligência 
+artificial e muito mais.
+JavaScript -> é uma linguagem de codificação de elevado nível, interpretada e baseada em 
+objetos. É reconhecida principalmente por ser a linguagem de roteiro dos navegadores da web, 
+permitindo a introdução de interatividade e vitalidade em páginas da internet. Para além de seu
+uso predominante no desenvolvimento de interfaces visuais, JavaScript também é empregada no 
+backend (Node.js), criação de aplicativos para dispositivos móveis, jogos e diversas outras 
+áreas. Sua capacidade de suportar programação assíncrona a torna adequada para atividades que 
+não bloqueiam a execução do programa, como requisições de API e controle de eventos em 
+interfaces de usuário.
+Java -> é uma linguagem de programação de propósito amplo, de elevado nível, compilada e 
+orientada a objetos. É reconhecida por sua portabilidade, o que significa que programas 
+escritos em Java podem ser executados em qualquer dispositivo que possua uma máquina virtual 
+Java (JVM). Java é amplamente utilizado no desenvolvimento de aplicações empresariais, 
+sistemas de informação, aplicativos para Android, servidores de aplicativos e diversos outros
+setores. Uma das características distintivas do Java é seu robusto sistema de tipagem 
+estática, que auxilia na prevenção de erros durante a compilação.
+
+Diferenças entre eles: 
+•	Propósito: Python é frequentemente usada para uma ampla variedade de tarefas, 
+incluindo desenvolvimento web, automação, análise de dados, etc. JavaScript é 
+predominante no desenvolvimento web, enquanto Java é usado principalmente em 
+aplicativos empresariais e Android.
+•	Sintaxe e Paradigma: Python tem uma sintaxe mais simples e é multiparadigma. 
+JavaScript é orientada a objetos, mas também suporta programação funcional e é 
+conhecida por suas funções de primeira classe. Java é orientada a objetos e 
+fortemente tipada.
+•	Ambiente de execução: Python e JavaScript são interpretadas, enquanto Java é 
+compilada para bytecode e depois executada na JVM.
+•	Portabilidade: Java é conhecida por sua portabilidade através da JVM, enquanto 
+Python e JavaScript também são portáveis, mas em contextos diferentes 
+(Python com sua implementação multiplataforma e JavaScript em navegadores).
+•	Comunidade e Ecossistema: Cada linguagem tem sua própria comunidade ativa de 
+desenvolvedores e um vasto ecossistema de bibliotecas e frameworks que a acompanham,
+atendendo a diferentes necessidades e requisitos.
+
+a. Tente fazer um código mínimo em cada uma delas; 
+Python:
+print("Vasco da Gama")
+
+JavaScript:
+// Este é um comentário em JavaScript
+console.log("Vasco da Gama") 
+
+Java:
+// Este é um comentário em Java
+public class VascodaGama {
+    public static void main(String[] args) {
+        System.out.println("Vasco da Gama");
+    }
+}
+b. Tente executar o seu código; 
