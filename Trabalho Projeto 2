@@ -2,6 +2,35 @@ Trabalho de Projeto Integrador: Programação
 Aluna: Maria Rafaela Toledo
 7º período 
 
+Trabalho 1
+
+1.	O “arquivo” tem a sua etimologia vinda do latim “archívum”, sendo um termo referente ao “lugar onde se guardam os documentos”. 
+Desse modo, o arquivo pode se enquadrar em inúmeros contextos, entretanto, no contexto da computação, o arquivo é definido como um 
+conjunto de dados que tem algum tipo de relação, isto é, em conjunto são capazes de descrever uma informação ou um agrupamento de 
+informações. Nesse sentido, cada um dos arquivos deve ter sua própria identificação, tendo em vista que esses são identificados por 
+números pelo computador, contudo, os usuários os identificam pelo nome. Desse modo, o computador é capaz de associar o número ao nome 
+escolhido e transforma o um no outro, quando necessário. Sendo assim, 
+“Dentro dos arquivos existem pequenos pacotes de dados expressos em bits (a menor unidade de computação que existe) e que são organizados 
+em registros ou linhas, sendo individualmente diferentes, mas com alguma característica comum. A maneira como essas informações são agrupadas depende de quem faz o arquivo, portanto, existem muitas estruturas de arquivo mais simples e complexas que são mais ou menos padronizadas hoje.
+1.1.	 Arquivos de Texto Cada byte do arquivo representa um caractere. Assim, o conjunto de bytes forma um texto. Um programa C, por 
+exemplo, é um arquivo desse tipo, pode ser facilmente visualizado com qualquer editor de texto. Arquivos texto são fáceis de serem lidos 
+por pessoas, mas costumam ocupar mais espaço para armazenar informações.
+
+2.	As variáveis têm esse nome devido à natureza do seu conteúdo, pois apresenta diferentes valores quando o sistema está em execução, 
+tendo em vista que dependerá do comando do usuário e tipo de operação a ser realizada. Assim, “variável” é o termo usado para definir em 
+um ou mais valores manipulados pelos programas na sua operação. De acordo com o GitHub, as variáveis fornecem uma forma de armazenar e 
+reutilizar informações de configuração não confidenciais. É possível armazenar quaisquer dados de configuração, como sinalizadores de 
+compilador, nomes de usuário ou nomes de servidor como variáveis. Com efeito, as variáveis são interpoladas no computador que executa o 
+fluxo de trabalho. Os comandos que são executados em ações ou etapas do fluxo de trabalho podem criar, ler e modificar variáveis.
+3.	Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros 
+computadores através de uma rede. Os servidores processam e executam solicitações feitas por usuário através de softwares, bancos de
+dados, envio e recebimento de informações como e-mails, envio de formulários, hospedagem de websites e outros. Um servidor funciona, 
+grosso modo, como um grande computador, mas ao invés de executar operações em nível doméstico, ele o faz em grande escala, transferindo 
+esses resultados para diferentes computadores. Dessa maneira, serve para centralizar grandes operações virtuais em um único "computador", 
+trazendo mais desempenho para a execução de determinadas tarefas.
+
+
+Trabalho 2 
 1.	Encontre referências e comente: 
 a)	 A relação entre a LGPD e os Data Centers no Brasil
 Resposta: A LGPD exigiu que as empresas tivessem que se adaptar as novas regras de proteção de dados, como ocorreu com os Datas Centers, a fim de proteger as informações. 
