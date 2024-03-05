@@ -1,0 +1,37 @@
+Trabalho 4 - Linguagens de programação 2
+Maria Rafaela Toledo - 7º período
+
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: 
+-> uma estrutura de repetição: uma estrutura de repetição, também conhecida como loop, permite que você execute um bloco de código várias vezes. Isso é útil quando você
+precisa executar uma determinada tarefa repetidamente sem ter que escrever o mesmo código várias vezes. 
+
+Código: 
+# Lista de nomes
+nomes = ["Rafa", "Bia", "Jojo", "Tito"]
+
+# Loop for para iterar sobre cada nome na lista e imprimir
+print("Lista de Nomes:")
+for nome in nomes:
+    print(nome)
+
+-> uma estrutura de tomada de decisão: condicional - uma estrutura de tomada de decisão, ou condicional, permite que você execute diferentes partes do código com base em 
+condições específicas.
+
+Código:
+# Solicita ao usuário que insira um nome
+nome = input("Digite um nome: Rafa, Bibi, Jojo, Tito")
+
+# Verifica se o nome inserido está na lista de nomes permitidos
+nomes_permitidos = ["Rafa", "Bibi", "Jojo", "Tito"]
+if nome in nomes_permitidos:
+    print("Olá,", nome + "!")
+    if nome == "Rafa":
+        print("Você é o líder do grupo.")
+    elif nome == "Bibi":
+        print("Você é o tesoureiro do grupo.")
+    elif nome == "Jojo":
+        print("Você é o coordenador de eventos do grupo.")
+    else:
+        print("Você é um membro do grupo.")
+else:
+    print("Desculpe, você não está na lista de membros do grupo.")
