@@ -6,7 +6,7 @@ Maria Rafaela Toledo - 7º período
 de código várias vezes. Isso é útil quando você precisa executar uma determinada tarefa repetidamente sem ter que escrever 
 o mesmo código várias vezes. 
 
-Código: 
+Código 1: 
 # Lista de nomes
 nomes = ["Rafa", "Bia", "Jojo", "Tito"]
 
@@ -15,10 +15,17 @@ print("Lista de Nomes:")
 for nome in nomes:
     print(nome)
 
+Código 2: 
+# Exemplo de um loop while que imprime os números de 1 a 5
+numero = 1
+while numero <= 5:
+    print(numero)
+    numero += 1
+
 -> uma estrutura de tomada de decisão: condicional - uma estrutura de tomada de decisão, ou condicional, permite que você 
 execute diferentes partes do código com base em condições específicas.
 
-Código:
+Código 1:
 # Solicita ao usuário que insira um nome
 nome = input("Digite um nome: Rafa, Bibi, Jojo, Tito")
 
@@ -36,3 +43,14 @@ if nome in nomes_permitidos:
         print("Você é um membro do grupo.")
 else:
     print("Desculpe, você não está na lista de membros do grupo.")
+
+Código 2: 
+# Exemplo de uma estrutura de decisão que verifica se um número é positivo, negativo ou zero
+numero = float(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
