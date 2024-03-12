@@ -8,6 +8,7 @@ Ele recebe esse nome devido à forma como os elementos "borbulham" para suas pos
 tornando-o ineficiente para grandes conjuntos de dados. É mais comumente usado para fins educacionais ou em situações em que o tamanho dos dados é pequeno. Para conjuntos maiores, 
 algoritmos mais eficientes são preferidos.
 
+Exemplo 1:
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -24,6 +25,25 @@ bubble_sort(arr)
 print("Array ordenado:")
 for i in range(len(arr)):
     print("%d" % arr[i])
+
+Exemplo 2: 
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso
+arr = [64, 34, 25, 12, 22, 11, 90]
+print("Array antes da ordenação:", arr)
+bubble_sort(arr)
+print("Array ordenado:", arr)
+
+-> a  função bubble_sort recebe uma lista como entrada e ordena os elementos dessa lista utilizando o algoritmo Bubble Sort. 
+Em seguida, é apresentado um exemplo de uso com uma lista de números desordenada. Após a chamada da função bubble_sort, a lista é
+impressa novamente para mostrar que agora está ordenada.
 
 2 – implemente um algorítimo que imprima apenas as vogais de uma
 determinada palavra ou frase.
