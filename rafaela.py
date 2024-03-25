@@ -1,0 +1,66 @@
+# Definindo as variáveis
+
+numeros = [5, 12, 8, 20]
+
+frase = "O Python é uma linguagem de programação poderosa."
+
+palavra = "OpenAI"
+
+
+
+# Imprimindo a média aritmética dos quatro números
+
+media = sum(numeros) / len(numeros)
+
+print("Média aritmética dos números:", media)
+
+
+
+# Imprimindo o quadrado de um dos números
+
+numero_quadrado = numeros[1] ** 2 # Quadrado do segundo número
+
+print("Quadrado de um dos números:", numero_quadrado)
+
+
+
+# Imprimindo o dobro de um dos números
+
+numero_dobro = numeros[-2] * 2 # Dobro do terceiro número
+
+print("Dobro de um dos números:", numero_dobro)
+
+
+
+# Imprimindo a quantidade de letras da palavra
+
+quantidade_letras = len(palavra)
+
+print("Quantidade de letras da palavra:", quantidade_letras)
+
+
+
+# Imprimindo a quantidade de espaços em branco da frase
+
+quantidade_espacos = frase.count(" ")
+
+print("Quantidade de espaços em branco na frase:", quantidade_espacos)
+
+
+
+# Verificando se o primeiro número é maior que o segundo
+
+primeiro_maior = numeros[0] > numeros[1]
+
+print("O primeiro número é maior que o segundo?", primeiro_maior)
+
+
+
+# Encontrando o maior número
+
+maior_numero = max(numeros)
+
+print("O maior número é:", maior_numero)
+
+
+
