@@ -1,0 +1,66 @@
+LISTA DE EXERCÍCIO AP1
+
+A computação é fundamental para o Direito uma vez que influenciou diretamente no aumento da produtividade, permitindo que os profissionais economizem tempo e se concentrem em tarefas mais complexas e estratégicas. Desse modo, a possibilidade de armazenar e organizar documentos, facilitou o acesso a informações importantes, fornecendo tal serviço de maneira mais eficiente. Assim, o uso da computação no direito fez não só com que os processos se tornassem mais simples, mais ágeis, mas também trouxe mais economia para o Direito, haja vista a eficiência do uso de sistemas. Assim, a computação instrumental, isto é, utilizar a computação como uma ferramenta, auxilia o Direito em tarefas do cotidiano, rege e permeia as relações humanas contemporâneas. Além disso, há a vantagem em dominar os conceitos fundamentais da computação é vantajoso ao lidar com o Direito, pois permite uma melhor compreensão das questões legais relacionadas à tecnologia, como proteção de dados, crimes cibernéticos e regulamentação de novas tecnologias. 
+
+
+a) Algoritmo: Um conjunto de instruções finitas e bem definidas que realiza uma tarefa ou resolve um problema.
+b) Nuvem: Refere-se a serviços de armazenamento, processamento e acesso a dados e aplicativos pela internet, em vez de no próprio dispositivo. Consiste em uma camada de abstração sobre um conjunto de servidores e outros recursos computacionais. 
+c) Servidor: Um computador ou sistema de computadores que fornece serviços, como armazenamento de dados, acesso a recursos ou processamento de requisições, para outros dispositivos, conhecidos como clientes. Sendo assim, o servidor pode ser tanto um computador grande - uma máquina física -, quanto um programa de computador. 
+d) Neutralidade da rede: Princípio que defende que todo o tráfego de dados na internet deve ser tratado de forma igualitária pelos provedores de serviço, sem discriminação ou preferência por determinados conteúdos, aplicativos ou usuários.
+e) Arquivo: Um conjunto de dados armazenados em um dispositivo de armazenamento, organizados de acordo com um formato específico e acessíveis por meio de um sistema operacional. Consiste em um método comum de persistência ou armazenamento de dados. Conjunto de dados a qual será dado um nome. 
+Na palavra Internet, podemos organizar conceitos diferentes como máquinas, cabos, programas e dados atribuindo-lhes funções específicas dentro da infraestrutura de rede, como hardware, conexões, software e conteúdo. É possível utilizar apenas uma única palavra para tantos conceitos, utilizando a capacidade de abstração, isto é, construir na cabeça humana uma divisão e repartição dos conceitos em níveis de abstração, ou seja, quanto mais próximo da compreensão humana/construção humana, mais abstrata. 
+Os computadores foram inventados para automatizar tarefas repetitivas e complexas, aumentar a eficiência e precisão, processar grandes volumes de dados e possibilitar o avanço científico e tecnológico em diversas áreas.
+Uma rede neural artificial (tipo de algoritmo ou IA, em que é muito difícil explicar as decisões, sendo muito complexo para a compreensão do ser humano, deve ter critérios objetivos para alcançar uma decisão, mas ainda assim, a transmissão dessa explicação ao humano - mas da mesma forma, é utilizada para auxiliar o médico, mas ele que toma a decisão) não pode tomar decisões médicas ou de concessão de empréstimos devido à falta de compreensão contextual, interpretação ética e julgamento humano necessários para essas tarefas. Algoritmos específicos, como os de aprendizado de máquina supervisionado, podem ser usados com moderação e supervisão humana para auxiliar em decisões médicas, mas não substituir completamente o julgamento humano. Assim, o algoritmo não pode ser responsabilizado civil ou penalmente, além de não ser capaz de substituir o julgamento humano - então, a decisão médica deve ser feita por pessoas. No entanto, o algoritmo da “árvore de decisão” é capaz de explicar suas decisões, portanto, pode ser utilizada como ferramenta a fim de auxiliar a pessoa com suas argumentações e fundamentações, tendo em vista que consegue explicar, e toma suas decisões com base em critérios claros. 
+Um arquivo "binário" armazena dados em formato binário, representando informações de forma bruta, enquanto um arquivo "de texto" armazena dados em formato legível por humanos, utilizando caracteres alfabéticos, números e símbolos. No arquivo de texto, os 0’s e 1’s - os bytes - serão sempre caracteres, já o binário pode ganhar qualquer forma, inclusive caracteres. Então, tecnicamente, todo arquivo é binário. 
+Um formato proprietário de arquivo é controlado por uma entidade específica com interesses privados e pode exigir o uso de software específico para acessá-lo, enquanto um formato aberto de arquivo é acessível por qualquer pessoa e pode ser implementado em diversos softwares, promovendo a interoperabilidade e transparência de dados. Assim, os dados de interesse público devem ser divulgados e de fácil acesso, portanto devem ser formatos abertos - (dado público é dado proveniente da ação estatal). 
+Um protocolo de comunicação (conjunto de regras que estabelece  o formato, a ordem das mensagens e como os programas e computadores vão se comunicar na internet) aberto é padronizado e acessível para implementação por qualquer pessoa ou organização, promovendo a interoperabilidade e inovação, enquanto um protocolo de comunicação proprietário é controlado e mantido por uma entidade específica, para fins de interesse particular, limitando sua utilização e dificultando a interoperabilidade. O uso de protocolos abertos facilitou o desenvolvimento de grande números de aplicações para a internet, já o uso de protocolos proprietários pode dificultar esse desenvolvimento de novas aplicações e a entrada de novos atores no mercado. 
+
+
+a) Um sistema operacional é um software que gerencia recursos de hardware e fornece serviços para programas de aplicativos, atuando como intermediário entre o hardware - componente físico - e o software - são os programas dentro do computador. Então, o sistema operacional é uma camada de abstração sobre os componentes físicos do computador, servindo como uma interface aos programas. 
+b) Não, existem diversos sistemas operacionais disponíveis, cada um com características e funcionalidades distintas (IOS, ANDROID, WINDOWS, MAC OS). 
+c) Sim, a venda de computadores obrigatoriamente ativados com um sistema operacional pode ser considerada "venda casada" se não houver opção de escolha para o consumidor, ferindo os princípios de liberdade de escolha e concorrência - a OAB e o PROFESSOR pensam isso. Já o STJ discorda, argumentando que o sistema operacional é parte essencial do computador. 
+
+
+a) A LGPD pode abranger datacenters em países estrangeiros se esses datacenters processarem dados de cidadãos brasileiros, assim, se o dado for capturado no Brasil, ainda está sob a guarda da LGPD, sendo brasileiro ou estrangeiro.
+b)
+Os servidores de aplicação - empresa que é dona da aplicação - podem agir de maneira adequada em relação ao conteúdo em desacordo com suas regras de comunidade, removendo ou limitando o acesso a conteúdos que violem suas políticas. Porém, há a questão da liberdade de expressão e estar de acordo com a lei local - discussão hoje no STF. 
+Em relação ao conteúdo que destroi reputações, sabidamente falso, os servidores de aplicação podem agir removendo ou marcando o conteúdo como falso, seguindo suas políticas e diretrizes, hodiernamente. Contudo, nem sempre o servidor de aplicação age em conformidade com isso, não removendo todo e qualquer conteúdo falso. Assim, deve-se analisar até onde a liberdade de expressão e informação devem ser reprimidos ou devem apenas ser responsabilizados civilmente. 
+11. 
+ a) As estruturas de repetição em Python incluem o "for" e o "while".
+b) Os blocos de comando em Python são definidos por meio de indentação, utilizando espaços em branco no início de cada linha de código para indicar pertencimento a um bloco. O bloco é definido por dois pontos em uma linha e, na seguinte, com a indentação. 
+c) O operador "+" em Python realiza duas operações principais: concatenação de strings - é usado em duas strings (texto), ele une (concatena) as strings em uma única - e adição de números - quando o operador + é utilizado entre dois números, e ele os soma.
+d) Uma função em Python é um bloco de código reutilizável que realiza uma tarefa específica.
+e) Uma função é definida utilizando a palavra-chave "def", seguida do nome da função e seus parâmetros, seguidos por dois pontos e o bloco de código que define a função.
+f) As estruturas de tomada de decisão em Python incluem "if", "elif" e "else". 
+if: Permite executar um bloco de código se uma condição for verdadeira.
+if-else: Permite executar um bloco de código se uma condição for verdadeira e outro bloco se a condição for falsa.
+if-elif-else: Permite testar múltiplas condições e executar um bloco de código correspondente à primeira condição verdadeira, ou executar um bloco de código padrão se nenhuma das condições for verdadeira.
+Aqui estão exemplos de cada uma delas:
+IF: 
+idade = 18
+
+
+if idade >= 18:
+    print("Você é maior de idade.")
+IF-ELSE:
+idade = 16
+
+
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+If-elif-else:
+
+nota = 75
+
+if nota >= 90:
+    print("A")
+elif nota >= 80:
+    print("B")
+elif nota >= 70:
+    print("C")
+elif nota >= 60:
+    print("D")
+else:
+    print("F")
